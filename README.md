@@ -16,7 +16,7 @@
 <h3 align="left">🧠 My LeetCode Stats</h3>
 <p align="left">
   <a href="https://leetcode.com/u/tejasgarud/" target="_blank">
-    <img src="https://leetcode-stats.vercel.app/api?username=tejasgarud&theme=Raspberry" alt="My LeetCode Stats" />
+    <img src="https://leetcode-stats.vercel.app/api?username=tejasgarud&theme=Dark" alt="My LeetCode Stats" />
   </a>
 </p>
 
