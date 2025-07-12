@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **tejasgarud75@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">🧠 My LeetCode Stats</h3>
 <p align="left">
   <a href="https://leetcode.com/u/tejasgarud/" target="_blank">
