@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **tejasgarud75@gmail.com**
 
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/fd4f970b-edc3-42d0-b2a4-4a491fd0dcf6" />
+   <a href = "https://www.credly.com/users/tejas-garud/badges#credly"  > Credly Link </a>
+
+
 <h3 align="left">🧠 My LeetCode Stats</h3>
 <p align="left">
   <a href="https://leetcode.com/u/tejasgarud/" target="_blank">
